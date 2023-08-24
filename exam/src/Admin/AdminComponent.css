@@ -1,0 +1,21 @@
+
+.change:hover{
+    background-color: rgba(33, 211, 69, 0.803);
+    color: rgb(245, 245, 245);
+    font-size: 1.2rem;
+    box-sizing: border-box;
+    height: 2.6rem;
+    font-weight: 400;
+    font-family: 'Times New Roman', Times, serif;
+}
+.change:visited{
+    background-color: rgb(172, 146, 146);
+
+}
+.change:active{
+    background-color: red;
+
+}
+.visite{
+    background-color: aqua;
+}

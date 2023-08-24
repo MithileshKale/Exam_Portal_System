@@ -1,0 +1,8 @@
+.cool:hover {
+  color: rgb(255, 255, 255);
+  background-color: rgb(13, 162, 50);
+}
+.cool:focus {
+  background-color: rgb(13, 110, 253);
+  color: rgb(255, 255, 255);
+}
